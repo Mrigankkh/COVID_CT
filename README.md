@@ -40,6 +40,9 @@ I trained this model in an online cloud instance on Google Colab over 50 epochs.
   # Performance
 
 The model achieved 74.44% accuracy.
+
 Precision: 0.686046511627907
+
 F1: 70.24%
+
 AUC: 81.12%
